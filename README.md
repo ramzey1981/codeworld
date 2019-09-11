@@ -1,4 +1,5 @@
 # Codeworld
 
-This repo will hold all scripts and tools that I have created over time and in some case practice problems to learn new things.  
+This repo will be a place holder for learning new tools and languages.  It will hold test exercises from various places, books, online courses, etc. 
+
 
